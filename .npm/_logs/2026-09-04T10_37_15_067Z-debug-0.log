@@ -1,0 +1,22 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.17.0
+2 info using node@v26.3.1
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/rgb-site/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm exec localtunnel --port 5000
+8 verbose argv "exec" "--yes" "false" "--" "localtunnel" "--port" "5000"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2026-09-04T10_37_15_067Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2026-09-04T10_37_15_067Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:1102839808 maxSize:275709952 maxEntrySize:137854976
+13 http fetch GET 200 https://registry.npmjs.org/localtunnel 562ms (cache revalidated)
+14 silly packumentCache heap:1102839808 maxSize:275709952 maxEntrySize:137854976
+15 silly packumentCache heap:1102839808 maxSize:275709952 maxEntrySize:137854976
+16 verbose cwd /data/data/com.termux/files/home/rgb-site
+17 verbose os Linux 6.6.82-android15-8-g076ac12bde16-ab13715361-4k
+18 verbose node v26.3.1
+19 verbose npm  v11.17.0
+20 verbose exit 1
+21 verbose code 1
